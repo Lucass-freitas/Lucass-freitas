@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Lucas!</h1>
-<h3>EN: Hi, I’m Lucas, a full-stack developer and a student of information technology. </h3>
-<h3>PT-BR: Olá, eu sou Lucas, um desenvolvedor full-stack e um estudante de tecnologia da informação. </h3>
+<h4>EN: Hi, I’m Lucas, a full-stack developer and a student of information technology. </h4>
+<h4>PT-BR: Olá, eu sou Lucas, um desenvolvedor full-stack e um estudante de tecnologia da informação. </h4>
 
-- 🌱 I’m currently learning **React and Machine Learning**
+- 🌱 I'm a developer currently working with **Angular and Java**, building dynamic and scalable applications. In my free time, I enjoy studying **React** and exploring the world of **Machine Learning**. I'm also focused on improving my English skills to expand my professional and personal opportunities. Always eager to learn and grow in the tech field!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lucas-papke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-papke" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/lucas-papke" target="blank">linkedin.com/in/lucas-papke</a>
 </p>
 
 <hr>
